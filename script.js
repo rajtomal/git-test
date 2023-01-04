@@ -1,1 +1,3 @@
-console.log("Tomal Ahmed Raj")
+console.log("Tomal Ahmed Raj");
+
+alert('Done');
